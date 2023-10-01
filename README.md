@@ -1,3 +1,5 @@
+Spring Boot 3.1.4
+
 A Simple spring boot web application demonstrate difference between normal rest API and reactive API
 
 Scenario 1: Regular GET API Test
